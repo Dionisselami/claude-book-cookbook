@@ -40,7 +40,7 @@ Reference material:
 ## Setup, once
 
 ```bash
-# 1. get a key — sign in at https://proseify.xyz (plans from $9/mo, or one-time Founding Lifetime)
+# 1. get a key — sign in at https://proseify.xyz (plans from $19/mo, or one-time Founding Lifetime)
 export PROSEIFY_API_KEY="sk-..."
 ```
 
@@ -110,10 +110,10 @@ not a scrape of titles.
 
 | Plan | Price | Rate limit |
 |------|-------|-----------|
-| Starter | $9/mo | 120 req/min |
-| Pro | $19/mo | 400 req/min |
-| Studio | $49/mo | 9999 req/min |
-| Founding Lifetime | one-time | 400 req/min, all genres |
+| Quill (Starter) | $19/mo | 120 req/min |
+| Fable (Pro) | $49/mo | 400 req/min |
+| Opus (Studio) | $99/mo | unlimited (fair use) |
+| Founding Lifetime | $149 one-time | 400 req/min, all genres |
 
 Sign in at https://proseify.xyz, pick a plan, and the key is issued the moment the purchase
 clears. Cancel from https://proseify.xyz/account; 14-day refund window
